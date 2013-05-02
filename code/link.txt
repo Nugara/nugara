@@ -1,1 +1,3 @@
 http://www.codeproject.com/Articles/392603/Android-addJavaScriptInterface
+http://stackoverflow.com/questions/8858674/allow-unverified-ssl-certificate-in-uiwebview
+http://stackoverflow.com/questions/11573164/uiwebview-to-view-self-signed-websites-no-private-api-not-nsurlconnection-i/15074358#15074358
