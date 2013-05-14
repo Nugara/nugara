@@ -6,3 +6,4 @@ http://codeexample.wordpress.com/2011/08/08/connect-database-servlet-example/
 http://www.avajava.com/tutorials/lessons/how-do-i-access-mysql-from-a-web-application.html?page=3
 http://www.ce.uniroma2.it/~lopresti/Didattica/RetiWeb/RetiWeb0809/Servlet.pdf
 http://www.adobe.com/devnet/html5/articles/extending-phonegap-with-native-plugins-for-ios.html
+http://kdiff3.sourceforge.net
