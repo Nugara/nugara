@@ -11,3 +11,4 @@ http://bummolo.blogspot.it/2012/04/web-services-rest-tutorial-ed-esempi.html
 https://addons.mozilla.org/it/firefox/addon/flash-video-downloader-youtube/
 http://www.slideshare.net/onoaonoa/cs193p-lecture-5-view-animation
 http://www.sitepoint.com/sqlite-vs-core-data-on-apple-devices/
+http://www.askyb.com/cpp/c-sqlite-example-with-parameterized-query/
