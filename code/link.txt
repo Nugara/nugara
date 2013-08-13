@@ -12,3 +12,4 @@ https://addons.mozilla.org/it/firefox/addon/flash-video-downloader-youtube/
 http://www.slideshare.net/onoaonoa/cs193p-lecture-5-view-animation
 http://www.sitepoint.com/sqlite-vs-core-data-on-apple-devices/
 http://www.askyb.com/cpp/c-sqlite-example-with-parameterized-query/
+https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/CreatingViews/CreatingViews.html#//apple_ref/doc/uid/TP40009503-CH5-SW5
