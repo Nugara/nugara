@@ -16,3 +16,4 @@ https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/Vi
 http://www.html.it/pag/31722/un-database-di-esempio/
 http://stackoverflow.com/questions/5636812/sorting-strings-in-reverse-order-with-backbone-js
 http://ipcprint.com/developer/downloads
+https://github.com/appcelerator/titanium_modules
