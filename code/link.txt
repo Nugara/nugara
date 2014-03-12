@@ -19,3 +19,4 @@ http://ipcprint.com/developer/downloads
 https://github.com/appcelerator/titanium_modules
 http://www.raywenderlich.com
 http://stackoverflow.com/questions/5361369/uiview-frame-bounds-and-center
+http://www.undolog.com/2010/02/10/come-creare-un-proprio-protocollo-con-delegato/
