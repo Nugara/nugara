@@ -22,3 +22,4 @@ http://stackoverflow.com/questions/5361369/uiview-frame-bounds-and-center
 http://www.undolog.com/2010/02/10/come-creare-un-proprio-protocollo-con-delegato/
 http://www.benjaminloulier.com/posts/clear-the-html5-application-cache-of-an-uiwebview/
 https://developer.apple.com/library/safari/documentation/appleapplications/Conceptual/SafariJSProgTopics/Tasks/ObjCFromJavaScript.html
+https://github.com/jdg/MBProgressHUD
