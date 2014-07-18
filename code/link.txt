@@ -24,3 +24,4 @@ http://www.benjaminloulier.com/posts/clear-the-html5-application-cache-of-an-uiw
 https://developer.apple.com/library/safari/documentation/appleapplications/Conceptual/SafariJSProgTopics/Tasks/ObjCFromJavaScript.html
 https://github.com/jdg/MBProgressHUD
 http://www.raywenderlich.com/65964/create-a-framework-for-ios
+http://sqlite.org/lang_analyze.html
