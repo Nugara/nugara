@@ -25,3 +25,4 @@ https://developer.apple.com/library/safari/documentation/appleapplications/Conce
 https://github.com/jdg/MBProgressHUD
 http://www.raywenderlich.com/65964/create-a-framework-for-ios
 http://sqlite.org/lang_analyze.html
+https://github.com/jimeh/git-aware-prompt
