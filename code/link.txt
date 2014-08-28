@@ -29,3 +29,4 @@ https://github.com/jimeh/git-aware-prompt
 http://bimib.disco.unimib.it/people/raffaella.rizzi/didattica/InformaticaBiotec09_10/BasiDiDati/ModelloE-R.pdf
 https://moqups.com
 https://bitbucket.org
+https://github.com/CocoaLumberjack/CocoaLumberjack
