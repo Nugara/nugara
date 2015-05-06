@@ -32,3 +32,5 @@ https://bitbucket.org
 https://github.com/CocoaLumberjack/CocoaLumberjack
 http://sstoolk.it
 http://www.paintcodeapp.com/news/iphone-6-screens-demystified
+https://visualstudiomagazine.com/articles/2014/03/01/sqlite-performance-and-prepared-statements.aspx
+http://stackoverflow.com/questions/1711631/improve-insert-per-second-performance-of-sqlite
