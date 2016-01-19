@@ -38,3 +38,4 @@ http://iosdev12.blogspot.it/2013/07/how-to-set-custom-section-header-in.html
 http://www.ispazio.net/495295/come-installare-os-x-yosemite-in-maniera-pulita-da-una-penna-usb-guida
 https://github.com/John-Lluch/SWRevealViewController
 http://stackoverflow.com/questions/26180822/swift-adding-constraints-programmatically
+https://www.zetetic.net/sqlcipher/ios-tutorial/
