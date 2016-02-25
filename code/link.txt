@@ -40,3 +40,4 @@ https://github.com/John-Lluch/SWRevealViewController
 http://stackoverflow.com/questions/26180822/swift-adding-constraints-programmatically
 https://www.zetetic.net/sqlcipher/ios-tutorial/
 https://developer.apple.com/certificationauthority/AppleWWDRCA.cer
+http://stackoverflow.com/questions/4114095/revert-git-repo-to-a-previous-commit
