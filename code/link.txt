@@ -42,3 +42,4 @@ https://www.zetetic.net/sqlcipher/ios-tutorial/
 https://developer.apple.com/certificationauthority/AppleWWDRCA.cer
 http://stackoverflow.com/questions/4114095/revert-git-repo-to-a-previous-commit
 https://makeapppie.com/tag/swift-nsattributedstring-in-swift/
+https://www.youtube.com/watch?v=aUGAiuuZ89w
